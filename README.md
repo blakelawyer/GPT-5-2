@@ -1,4 +1,4 @@
-# GPT-5--2-
+# GPT-5-2
 
 Welcome to our Virtual Nurse Questionnaire!
 
